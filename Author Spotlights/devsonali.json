@@ -5,7 +5,7 @@
     "list": [
       
       {
-        "title" : "A Bollywood Affair",
+        "label" : "A Bollywood Affair",
         "isbns": [
           "9781617730146",
           "9781982486648",
@@ -14,7 +14,7 @@
       },
 
       {
-          "title" : "A Change of Heart",
+          "label" : "A Change of Heart",
           "isbns": [
             "9781496705747",
             "9781504766036",
@@ -24,7 +24,7 @@
       },
       
       {
-        "title" : "A Distant Heart",
+        "label" : "A Distant Heart",
         "isbns": [
           "9781982486662",
           "9781496705778",
@@ -33,7 +33,7 @@
       },
       
       {
-        "title" : "The Bollywood Bride",
+        "label" : "The Bollywood Bride",
         "isbns": [
           "9781617730160",
           "9781982486655",
@@ -43,7 +43,7 @@
       },
       
       {
-        "title" : "Pride, Prejudice, and Other Flavors",
+        "label" : "Pride, Prejudice, and Other Flavors",
         "isbns": [
           "9780062839060",
           "9780062839053"
@@ -51,7 +51,7 @@
       },
       
       {
-        "title" : "Recipe for Persuasion",
+        "label" : "Recipe for Persuasion",
         "isbns": [
           "9780062839084",
           "9780062839077"
