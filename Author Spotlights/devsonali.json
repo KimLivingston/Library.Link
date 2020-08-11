@@ -1,9 +1,7 @@
 {
     "label": "AUTHOR SPOTLIGHT: Sonali Dev",
     "description": "Sonali Dev writes multicultural contemporary romances starring spirited young women and handsome, dashing young men, both torn between Indian cultural tradition and modern Western culture. Her likable, well-drawn protagonists believe in true love but are often thwarted by their dark family pasts. Dev presents her mildly sensuous stories with a light touch and an upbeat tone without trivializing Indian customs or mocking the ambitions of smart women intent upon self discovery.",
-
     "list": [
-      
       {
         "label" : "A Bollywood Affair",
         "isbns": [
@@ -12,7 +10,6 @@
           "9781617730139"
         ]
       },
-
       {
           "label" : "A Change of Heart",
           "isbns": [
@@ -22,16 +19,14 @@
             "9781496705754"
           ]
       },
-      
       {
         "label" : "A Distant Heart",
         "isbns": [
-          "9781982486662",
           "9781496705778",
+          "9781982486662",
           "9781538475249"
         ]
       },
-      
       {
         "label" : "The Bollywood Bride",
         "isbns": [
@@ -41,7 +36,6 @@
           "9781617730153"
         ]
       },
-      
       {
         "label" : "Pride, Prejudice, and Other Flavors",
         "isbns": [
@@ -49,7 +43,6 @@
           "9780062839053"
         ]
       },
-      
       {
         "label" : "Recipe for Persuasion",
         "isbns": [
@@ -57,7 +50,5 @@
           "9780062839077"
         ]
       }
-
     ]
-
   }
