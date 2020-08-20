@@ -1,11 +1,11 @@
 {
-    "label": "Umbrella Academy",
-    "description": "Umbrella Academy books",
-    "isbns": [
-      "9781621151142",
-      "9781621151159",
-      "9781506711430",
-      "9781621151142",
-      "9781593079789"
-    ]
-  }
+  "label": "Umbrella Academy",
+  "description": "Umbrella Academy books",
+  "isbns": [
+    "9781621151142",
+    "9781621151159",
+    "9781506711430",
+    "9781621151142",
+    "9781593079789"
+  ]
+ }
