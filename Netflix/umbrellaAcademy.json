@@ -1,0 +1,30 @@
+{
+    /**
+      * JSON files do not allow for comments
+      * Please remove all comments before use
+      **/
+
+    "label": "",
+    "description": "",
+    
+    //Allows for default lists to be combined
+    "resources": [
+      ""
+    ],
+
+    //Allows for ISBNs to be selected, each format listed seperately
+    "isbns": [
+        ""
+    ],
+
+    //Allows for a single title to be selected with multiple formats, listing only the titles
+    "list": [
+        {
+            "label": "",
+            "isbns": [
+                ""
+            ]
+        }
+    ]
+
+  }
